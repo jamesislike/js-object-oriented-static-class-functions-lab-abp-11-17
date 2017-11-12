@@ -15,7 +15,7 @@ class question{
   }
 
   static id(){
-    return 
+    return id[]
   }
 }
 
