@@ -13,6 +13,10 @@ class question{
   static All(){
     return this._All;
   }
+
+  static id(){
+    return 
+  }
 }
 
 Question._All = []
